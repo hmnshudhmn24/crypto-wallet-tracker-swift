@@ -53,9 +53,3 @@ open CryptoWalletTracker.xcodeproj
 ## 🔒 Biometric Notes
 
 Ensure biometric features are enabled in the device settings.
-
----
-
-## 📄 License
-
-MIT License
